@@ -9,5 +9,5 @@ In my toolkit, you'll find Data analysis and Econometrics skills . I'm  also pro
 
 Feel free to explore my repositories, and if you have any questions or ideas, don't hesitate to reach out. 
 
-Happy coding! 😎
+Happy coding! 
 
