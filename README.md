@@ -1,13 +1,35 @@
+## 👋 Hello, I'm **Roland DUTAUZIET**
 
-**Hello, I'm Roland DUTAUZIET.**
+🎯 **Aspiring Quantitative Analyst**  
+📚 Currently learning **Econometrics & Data Science** at *Paris 1 Panthéon-Sorbonne University*
 
-Aspiring a Quantitative Analyst job, I'm currently learning Econometrics and Data-science at Paris 1 Pantheon-Sorbonne University.
+---
 
-I also enjoy playing adventure/RPG/Fight video games, watching anime, drawing  and I am learning piano and guitar 
+### 🔧 About Me  
+I’m passionate about quantitative finance, modeling, and data-driven decision making.
 
-In my toolkit, you'll find Data analysis and Econometrics skills . I'm  also proficient in Python/SAS/SQL and always eager to explore new challenges.
+In my toolkit, you’ll find:
 
-Feel free to explore my repositories, and if you have any questions or ideas, don't hesitate to reach out. 
+- 📊 **Data Analysis & Econometrics**
+- 🧠 **Statistical Modeling & Machine Learning**
+- 💻 **Python, SAS, SQL**
+- 🔍 A strong interest in **risk modeling** and **financial applications**
 
-Happy coding! 
+---
+
+### 🎮 Outside of Tech  
+I also enjoy:
+
+- Adventure / RPG / Fighting **video games**
+- Watching **anime**
+- **Drawing**
+- Learning **piano & guitar**
+
+---
+
+### 🤝 Let’s Connect  
+Feel free to explore my repositories.  
+If you have any questions or ideas, don’t hesitate to reach out.
+
+✨ **Happy coding!**
 
