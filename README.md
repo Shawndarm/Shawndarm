@@ -1,4 +1,4 @@
-# Hello, I'm <span style="color:#1E90FF;"><b>Roland DUTAUZIET</b></span>
+
 
 <span style="color:#32CD32;"><b>Aspiring Quantitative Analyst</b></span>  
 Currently learning <span style="color:#FF8C00;"><b>Econometrics & Data Science</b></span> at <i>Paris 1 Panthéon-Sorbonne University</i>
