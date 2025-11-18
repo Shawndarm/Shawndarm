@@ -1,4 +1,4 @@
-
+# Hello, I'm <span style="color:#1E90FF;"><b>Roland DUTAUZIET</b></span>
 
 <span style="color:#32CD32;"><b>Aspiring Quantitative Analyst</b></span>  
 Currently learning <span style="color:#FF8C00;"><b>Econometrics & Data Science</b></span> at <i>Paris 1 Panthéon-Sorbonne University</i>
@@ -31,4 +31,7 @@ I also enjoy:
 
 ✨ <span style="color:#00FA9A;"><b>Happy coding!</b></span>
 
+![Quant](https://img.shields.io/badge/Quantitative%20Finance-1E90FF)
+![Data Science](https://img.shields.io/badge/Data%20Science-FF8C00)
+![Python](https://img.shields.io/badge/Python-3776AB)
 
