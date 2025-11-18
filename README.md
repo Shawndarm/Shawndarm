@@ -10,10 +10,10 @@ I’m passionate about quantitative finance, modeling, and data-driven decision 
 
 My principal topics:
 
-- 📊 **Data Analysis & Econometrics**
-- 🧠 **Statistical Modeling & Machine Learning**
-- 💻 **Python, SAS, SQL**
-- 🔍 A strong interest in **risk modeling** and **financial applications**
+- **Data Analysis & Econometrics**
+- **Statistical Modeling & Machine Learning**
+- **Python, SAS, SQL**
+- A strong interest in **risk modeling** and **financial applications**
 
 ---
 
