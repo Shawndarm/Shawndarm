@@ -1,5 +1,5 @@
 
-Hello, World! I'm Roland DUTAUZIET but you can call me Shawn.
+**Hello, I'm Roland DUTAUZIET.**
 
 Aspiring a Quantitative Analyst job, I'm currently learning Econometrics and Data-science at Paris 1 Pantheon-Sorbonne University.
 
