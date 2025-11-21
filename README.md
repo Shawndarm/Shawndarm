@@ -21,10 +21,10 @@ My principal topics:
 ### Outside of Tech  
 I also enjoy:
 
-- Adventure / RPG / Fighting **video games**
-- Watching **anime**
-- **Drawing**
-- Learning **piano & guitar**
+- Adventure / RPG / Fighting video games
+- Watching anime
+- Drawing
+- Learning piano & guitar
 
 ---
 
