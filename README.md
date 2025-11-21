@@ -6,7 +6,8 @@ Currently learning **Econometrics & Data Science** at *Paris 1 Panthéon-Sorbonn
 ---
 
 ### About Me  
-I’m passionate about quantitative finance, modeling, and data-driven decision making.
+I’m passionate about sciences in general.
+With an interest in modeling, data-driven decision making and quantitative finance.
 
 My principal topics:
 
