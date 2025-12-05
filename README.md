@@ -27,37 +27,28 @@ I also enjoy:
 - Learning piano & guitar
 
 ---
+## 🧰 Tech Stack
 
-## My Tech Stack
+### 🧪 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1E90FF?logo=sas&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-ff8c00?logo=Mathworks&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?logo=microsoft-excel&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 
-### Languages
-| Langage | Badge |
-|--------|--------|
-| Python | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> |
-| R | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/> |
-| SAS | <img src="https://img.shields.io/badge/SAS-1E90FF?logo=sas&logoColor=white" /> |
-| Matlab | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/> |
-| VBA | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> |
-| LaTeX | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="40"/> |
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
----
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
 
-### Tools & Platforms
-| Outil | Icône |
-|-------|--------|
-| Git | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> |
-| GitHub | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/> |
-| Docker | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> |
-
----
-
-### Cloud
-| Cloud | Icône |
-|--------|--------|
-| AWS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/> |
-| Azure | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/> |
-
----
+### 📊 Data & Quant
+![Quantitative Finance](https://img.shields.io/badge/Quantitative%20Finance-1E90FF?logo=apache-spark&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-FF8C00?logo=python&logoColor=white)
 
 ### Data & Quant
 ![Quantitative Finance](https://img.shields.io/badge/Quantitative%20Finance-1E90FF)
