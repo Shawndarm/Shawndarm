@@ -18,7 +18,7 @@ My principal topics:
 
 ---
 
-### Outside of Tech  
+### Hobbies
 I also enjoy:
 
 - Adventure / RPG / Fighting video games
