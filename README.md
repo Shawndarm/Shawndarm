@@ -33,7 +33,7 @@ I also enjoy:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org)
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://www.r-project.org)
 [![SAS](https://img.shields.io/badge/SAS-1E90FF?logo=sas&logoColor=white)](https://www.sas.com)
-[![Matlab](https://img.shields.io/badge/Matlab-ff8c00?logo=mathworks)](https://www.mathworks.com)
+[![Matlab](https://seeklogo.com/images/M/matlab-logo-9E6F9B8F50-seeklogo.com.png)](https://www.mathworks.com)
 [![VBA](https://img.shields.io/badge/VBA-217346?logo=microsoft&logoColor=white)](https://learn.microsoft.com/office/vba) 
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)](https://www.latex-project.org)
 
