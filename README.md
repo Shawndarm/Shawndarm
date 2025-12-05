@@ -50,6 +50,7 @@ I also enjoy:
 [![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 [![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 
+<img src="https://seeklogo.com/images/M/matlab-logo-9E6F9B8F50-seeklogo.com.png" height="20" /> **Matlab**
 
 
 
