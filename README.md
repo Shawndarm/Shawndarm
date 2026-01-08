@@ -50,6 +50,10 @@ I also enjoy:
 [![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 [![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 
+[![MATLAB](https://img.shields.io/badge/MATLAB-R2023b+-ED1C24?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+
+[![Azure](https://img.shields.io/badge/Azure-%230089D6.svg?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
 ✨ **Happy coding!**
