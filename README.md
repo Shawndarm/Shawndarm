@@ -74,9 +74,6 @@ I also enjoy:
 ![](https://nirzak-streak-stats.vercel.app/?user=Shawndarm&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shawndarm&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-#### GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shawndarm&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
-
 #### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
