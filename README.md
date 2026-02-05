@@ -27,6 +27,8 @@ I also enjoy:
 - Learning piano & guitar
 
 ---
+![Vues du profil](https://komarev.com/ghpvc/?username=TON_PSEUDO_GITHUB&color=blue&style=flat-square&label=VISITEURS)
+
 ### My Tech Stack
 
 #### Languages
