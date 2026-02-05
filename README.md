@@ -27,7 +27,7 @@ I also enjoy:
 - Learning piano & guitar
 
 ---
-![Vues du profil](https://komarev.com/ghpvc/?username=Shawndarm&color=blue&style=flat-square&label=VISITEURS)
+![Vues du profil](https://komarev.com/ghpvc/?username=Shawndarm&color=lightgrey&style=for-the-badge)
 
 ### My Tech Stack
 
