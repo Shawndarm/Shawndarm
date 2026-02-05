@@ -1,4 +1,4 @@
-#  Hello, I'm **Roland DUTAUZIET**🗿
+#  Hello, I'm **Roland DUTAUZIET**
 
 **Credit Risk Quantitative Analyst**  
 Currently learning **Econometrics & Data Science** at *Paris 1 Panthéon-Sorbonne University*
@@ -27,7 +27,7 @@ I also enjoy:
 - Learning piano & guitar
 
 ---
-![Vues du profil](https://komarev.com/ghpvc/?username=Shawndarm&color=lightgrey&style=for-the-badge)
+🗿 ![Vues du profil](https://komarev.com/ghpvc/?username=Shawndarm&color=lightgrey&style=for-the-badge)
 
 ### My Tech Stack
 
