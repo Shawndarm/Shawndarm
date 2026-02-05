@@ -12,8 +12,7 @@ With an interest in modeling, data-driven decision making and quantitative finan
 My principal topics:
 
 - **Data Analysis & Econometrics**
-- **Statistical Modeling & Machine Learning**
-- **Python, SAS, SQL**
+- **Statistical Modeling, Machine Learning and AI**
 - A strong interest in **risk modeling** and **financial applications**
 
 ---
