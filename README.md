@@ -8,7 +8,8 @@ Currently learning **Econometrics & Data Science** at *Paris 1 Panthéon-Sorbonn
 ### About Me  
 I’m passionate about sciences in general.
 With an interest in modeling, data-driven decision making and quantitative finance.
-
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=TON_ID&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=TON_ID&redirect=true)
+[![Music](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 My principal topics:
 
 - **Data Analysis & Econometrics**
