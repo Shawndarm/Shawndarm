@@ -69,6 +69,9 @@ I also enjoy:
 [![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 [![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 
+
+https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif
+
 #### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shawndarm&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shawndarm&theme=gruvbox&hide_border=true)<br/>
