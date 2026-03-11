@@ -70,7 +70,6 @@ I also enjoy:
 [![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 
 
-https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif
 
 #### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shawndarm&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
@@ -80,4 +79,8 @@ https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-
 #### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="500">
+</p>
 
