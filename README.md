@@ -1,6 +1,6 @@
 #  Hello, I'm **Roland DUTAUZIET**
 
-**Credit Risk Quantitative Analyst**  
+**Quantitative Analyst**  
 Currently learning **Econometrics & Data Science** at *Paris 1 Panthéon-Sorbonne University*
 
 ---
