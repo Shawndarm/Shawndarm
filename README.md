@@ -20,9 +20,10 @@ My principal topics:
 ### Hobbies
 I also enjoy:
 
+- Travelling
 - Adventure / RPG / Fighting video games
-- Watching anime
-- Drawing
+- Anime, Mangas and Cosplay
+- Drawing and Reading novels
 - Learning piano & guitar
 
 ---
